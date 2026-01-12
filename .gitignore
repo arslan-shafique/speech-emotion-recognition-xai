@@ -1,4 +1,48 @@
+# Python
 .venv
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
 .idea
-.csv
+.vscode/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Data files
 data/
+*.csv
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Model files
+*.pt
+*.pth
+*.onnx
+models/
+checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
