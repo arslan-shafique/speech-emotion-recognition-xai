@@ -1,0 +1,46 @@
+# Core Dependencies for TESS Emotion Recognition Project
+
+# Audio Processing
+librosa>=0.10.0
+soundfile>=0.12.1
+pydub>=0.25.1
+audioread>=3.0.0
+
+# Deep Learning
+tensorflow>=2.13.0
+keras>=2.13.0
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Data Science & ML
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Explainable AI
+shap>=0.42.0
+lime>=0.2.0.1
+
+# Speech-to-Text & Text-to-Speech
+openai-whisper>=20230314
+TTS>=0.15.0
+speechrecognition>=3.10.0
+
+# Grad-CAM & Visualization
+tf-keras-vis>=0.8.0
+grad-cam>=1.4.8
+
+# Progress & Utilities
+tqdm>=4.65.0
+ipywidgets>=8.0.0
+jupyter>=1.0.0
+
+# Optional but recommended
+opencv-python>=4.8.0
+pillow>=10.0.0
