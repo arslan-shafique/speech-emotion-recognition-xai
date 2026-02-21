@@ -47,8 +47,8 @@ By working through this project, you will learn:
 
 ```bash
 # Clone the repository
-git clone https://github.com/umairva7/Deep-Learning-NLP.git
-cd Deep-Learning-NLP
+git clone https://github.com/arslan-shafique/speech-emotion-recognition-xai.git
+cd speech-emotion-recognition-xai
 
 # Create virtual environment (recommended)
 python -m venv venv
